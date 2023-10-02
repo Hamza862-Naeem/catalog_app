@@ -1,0 +1,10 @@
+{
+    "recommendations": [
+        "coenraads.bracket-pair-colorizer",
+        "esbenp.prettier-vscode",
+        "dart-code.dart-code",
+        "enkia.tokyo-night",
+        "eamodio.gitlens",
+        "donjayamanne.githistory"
+    ]
+}
